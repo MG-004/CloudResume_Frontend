@@ -1,0 +1,28 @@
+.choosing-security-container {
+  display: flex;
+  position: relative;
+}
+.choosing-security-text {
+  color: #ffffff;
+  position: relative;
+  font-size: 23px;
+}
+.choosing-security-root-class-name {
+  top: 55px;
+  left: 58px;
+  position: absolute;
+}
+.choosing-security-root-class-name1 {
+  top: -35px;
+  right: -336px;
+  width: auto;
+  height: auto;
+  margin: auto;
+  position: absolute;
+}
+@media(max-width: 1200px) {
+  .choosing-security-root-class-name1 {
+    top: -37px;
+    right: -174px;
+  }
+}
